@@ -123,14 +123,19 @@ You can choose the editor of your choice. Set a new variable for GIT_EDITOR.
 
 
 
-You can see the registry of your local repo with :
+You can see the registry of the commit of your local repo with :
 
-`$ git log`
+`$ git log or git log --oneline`
 
 See the new status of the repo
 
 `$ git status`
 
+CL
 
+``` 
+On branch master
+nothing to commit, working tree clean
+```
 
 
