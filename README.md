@@ -94,6 +94,18 @@ After you can commit the file :
 
 
 
+CL 
+
+``` 
+[master ad4bb8c] Task : Create .md file
+ 1 file changed, 106 insertions(+)
+ mode change 100644 => 100755 README.md
+```
+
+ 
+
+
+
 Now let's configure your local Git : 
 
 - First : Your information 
@@ -102,5 +114,23 @@ Now let's configure your local Git :
 $ git config user.name "Jax Jagger"
 $ git config user.email "jj@example.com"
 ```
+
+You can also specify your identity by supplying your name and email address
+to the GIT_AUTHOR_NAME and GIT_AUTHOR_EMAIL environment
+variables respectively.
+
+You can choose the editor of your choice. Set a new variable for GIT_EDITOR.
+
+
+
+You can see the registry of your local repo with :
+
+`$ git log`
+
+See the new status of the repo
+
+`$ git status`
+
+
 
 
