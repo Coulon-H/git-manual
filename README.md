@@ -15,7 +15,7 @@ You can install on those website [Official Website : git-scm](https://git-scm.co
 
 ### Linux
 
-On linux, most everything can be done on the terminal. Git Installation included. 
+On linux, most of the installation can be done on the terminal. Git Installation included. 
 
 #### On Debian based systems
 
